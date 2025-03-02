@@ -53,5 +53,27 @@ A Python-based alarm clock that beeps when the set time is reached.
 
 ---
 
+## 📚 Library Management System
+A simple **Library Management System** in Python for managing books efficiently.
+
+### 📖 Features:
+- Display available books 📚
+- Add new books ➕
+- Issue books 📕
+- Return books 🔄
+- Check the total number of books 🔢
+
+### 🛠 How to Use:
+1. Run the script and choose an option:
+   - 1️⃣  Display Books
+   - 2️⃣  Add Book
+   - 3️⃣  Check No. of Books
+   - 4️⃣  Issue Book
+   - 5️⃣  Return Book
+   - 6️⃣  Exit
+2. Follow the prompts to manage books effectively.
+
+---
+
 Enjoy the game, manage tasks, and wake up on time! 😊🔥
 
