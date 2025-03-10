@@ -20,7 +20,7 @@ def set_alarm():
 
 def snooze_alarm():
     print("🛏 Snoozing for 5 minutes...")
-    time.sleep(5)  # Wait 5 minutes
+    time.sleep(5*60)  # Wait 5 minutes
     print("⏰ Snooze over! Wake up!")
     for _ in range(5):
         winsound.Beep(2500, 1000)
